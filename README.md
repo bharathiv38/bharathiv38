@@ -1,7 +1,4 @@
 
-# Project Title
-
-
 
 ## 🚀 About Me
 I'm aspiring Data Scientist 
@@ -20,7 +17,7 @@ I'm aspiring Data Scientist
 
 
 
-## Screenshots
 
-![App Screenshot](https://elu.nl/6-most-sought-after-data-science-skills-to-pick-up/)
+
+
 
