@@ -7,7 +7,7 @@ I'm aspiring Data Scientist
 # Hi, I'm Bharathi! 👋
 
 
-## Other Common Github Profile Sections
+## More about me
 👩‍💻 I'm currently working & doing internship 
 
 🧠 I'm currently learning Machine Learning & AI
